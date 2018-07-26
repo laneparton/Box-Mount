@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Box
+Encoding=UTF-8
+Exec=/N/u/laparton/Carbonate/Desktop/v3/boxLauncher.sh
+StartupNotify=false
+Type=Application
+Icon=/N/soft/rhel7/red/icons/boxicon.png
+Name[C]=Box
